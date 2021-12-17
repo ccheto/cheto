@@ -20,7 +20,15 @@ a {
 .nav1 {
 
     justify-content: center;
-    
+    text-size-adjust: 25;
+    font-family: "Nunito", sans-serif;
+}
+
+.nav2 {
+
+    justify-content: center;
+    text-size-adjust: 18;
+    font-family: "Nunito", sans-serif;
 }
 
 a:hover {
