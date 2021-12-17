@@ -9,16 +9,16 @@
 body {
     font-family: "Nunito", sans-serif;
     color: #ffffff;
-    background: #1c1d31;
+    background: #000000;
 }
 
 a {
     text-decoration: none;
-    color: #0caaff;
+    color: #ff9900;
 }
 
 a:hover {
-    color: #0a58ca;
+    color: #c77811;
     text-decoration: none;
 }
 
