@@ -17,6 +17,12 @@ a {
     color: #ff9900;
 }
 
+.nav1 {
+
+    justify-content: center;
+    
+}
+
 a:hover {
     color: #c77811;
     text-decoration: none;
